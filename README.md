@@ -9,7 +9,7 @@ This fork combines those common tasks into a single app, along with useful featu
 > If the original WebUI app is already installed, uninstall it before installing this fork. Installation will fail otherwise.
 
 <div align="center">
-  <a href="https://github.com/MeowDump/KsuWebUIStandalone/releases/download/v2/v2-Meow-KsuWebUI.apk" target="_blank">
-    <img src="https://github.com/MeowDump/MeowDump/blob/main/Assets/download.png" alt="Download Button" width="400">
+  <a href="https://github.com/MeowDump/KsuWebUIStandalone/releases/download/v3/v3-Meowgisk.apk" target="_blank">
+    <img src="https://raw.githubusercontent.com/MeowDump/Integrity-Box/main/assets/new/BUTTON-Download.png" alt="Download Button" width="400">
   </a>
 </div>
